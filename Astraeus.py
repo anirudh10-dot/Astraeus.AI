@@ -3,7 +3,7 @@ import time
 
 class SpaceStationAI:
 
-def __init__(self, astronauts, activity_level):  
+ def __init__(self, astronauts, activity_level):  
     self.astronauts = astronauts  
     self.activity_level = activity_level.lower()  
 
